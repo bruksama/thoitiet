@@ -9,4 +9,4 @@ Crack wps wifi
 * git clone https://github.com/Thaomtam/thoitiet.git
 * cd thoitiet
 * chmod +x thoitietv2.py
-* sudo python thoitiet.py -i wlan0 -K
+* sudo python thoitietv2.py -i wlan0 -K
