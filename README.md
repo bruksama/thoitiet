@@ -8,5 +8,5 @@ Crack wps wifi
 * pkg install git tsu python wpa-supplicant pixiewps iw openssl -y
 * git clone https://github.com/Thaomtam/thoitiet.git
 * cd thoitiet
-* chmod +x thoitiet.py
+* chmod +x thoitietv2.py
 * sudo python thoitiet.py -i wlan0 -K
